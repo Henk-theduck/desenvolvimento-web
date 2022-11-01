@@ -1,0 +1,11 @@
+p{
+    color: red;
+}
+
+#foot p{
+    color : blue;
+}
+
+p.primeiro{
+    color: yellow;
+}
