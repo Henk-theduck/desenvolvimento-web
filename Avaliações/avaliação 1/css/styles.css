@@ -4,6 +4,7 @@
     top: 0;
     left: 0;
     height: 100%;
+    width: 80px;
 }
 .item{
     line-height: 30px;
@@ -27,4 +28,46 @@
 
 .navbar ul{
     list-style: none;
+    padding: 0;
 }
+
+.content{
+    margin-left: 100px;
+    color: rgb(91, 111, 155);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: 2px 2px 10px rgb(77, 145, 223);
+}
+
+.left-bloc img{
+    height: 150px;
+    width: 150px;
+}
+
+.right-bloc{
+    margin-left: 20px;
+}
+
+.boletim{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(77, 145, 223);
+}
+
+.boletim table{
+    width: 100%;
+}
+.boletim td{
+    padding: 10px;
+}
+
+
+
